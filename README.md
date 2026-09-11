@@ -1,1 +1,5 @@
-# IT_ELECTIVE_2_-BSIT-31E3-_PREFINAL_EXAM_LOPEZ-_LANCE-JORDAN_V
+Lance Jordan V. Lopez
+
+Class: [Internet Lab] | Section: [BSIT-31E3]
+
+Course: IT Elective 2 — Pre-Finals Exam
